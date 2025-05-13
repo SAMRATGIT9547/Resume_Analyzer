@@ -1,0 +1,7 @@
+cd D:\Project\Resume__Builder
+uvicorn main:app --reload
+
+
+
+cd D:\Project\Resume__Builder\frontend
+npm start
